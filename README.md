@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm ibralyam
 
-<!--
-**ibralyam/ibralyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I repack Android 15-16 AOSP ROMs for the Samsung Galaxy A50 (a50dd, Exynos 9610).
 
-Here are some ideas to get you started:
+## What I do
+- Flashable TWRP zips: Vendor, MultiDisabler, GSI, Mint KernelSU kernel, System Resizer
+- Optional BiTGApps for vanilla builds
+- Shell installer scripts with checks and progress output
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ROMs
+RisingOS, RestlessOS, LineageOS, AxionOS, crDroid, InfinityX, PixelOS, DerpFest, Sakura
+
+## Downloads
+See Releases in each ROM repository.
+
+## Known issues
+FOD, Vibration, Ultrawide, and Macro don't work on AOSP ROMs for this phone.
+
+## Contact
+Telegram: t.me/ibralyam
