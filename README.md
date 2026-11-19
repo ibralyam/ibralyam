@@ -4,8 +4,8 @@ I repack Android 15–16 AOSP ROMs for the Samsung Galaxy A50 (`a50dd`, Exynos 9
 
 ## ROMs & Recovery
 
-- **Hybrid TWRP (`3.7.1_12-0-UNOFFICIAL-@ibralyam`):** TWRP 3.7.1_12 for Galaxy A50 with `/system_root`, `xzcat`/`unxz`/`busybox` + `/sbin/sh`, permissive SELinux, static C `twrp_flasher` with CRC32/SHA-256 checks & write verification, built via GitHub Actions CI
-- **Flashable TWRP zips:** Vendor, MultiDisabler, GSI, Mint KernelSU kernel, System Resizer, and custom Hybrid TWRP
+- **[Hybrid TWRP](https://github.com/ibralyam/TWRP-A50) (`3.7.1_12-0-UNOFFICIAL-@ibralyam`):** TWRP 3.7.1_12 for Galaxy A50 with `/system_root`, `xzcat`/`unxz`/`busybox` + `/sbin/sh`, permissive SELinux, static C `twrp_flasher` with CRC32/SHA-256 checks & write verification, built via GitHub Actions CI
+- **Flashable TWRP zips:** Vendor, MultiDisabler, GSI, Mint KernelSU kernel, and System Resizer
 - **Supported ROMs:** RisingOS, RestlessOS, LineageOS, AxionOS, crDroid, InfinityX, PixelOS, DerpFest, Sakura
 - **Extras:** Optional BiTGApps for vanilla builds, shell installer scripts with checks and progress output
 - **Downloads:** See Releases in each repository
