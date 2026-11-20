@@ -1,6 +1,6 @@
 # Hi, I'm ibralyam
 
-I repack Android 15 and 16 AOSP ROMs for the Samsung Galaxy A50 (`a50dd`, Exynos 9610).
+I repack Android 15 and 16 AOSP ROMs for Samsung Galaxy A50 (`a50dd`, Exynos 9610).
 I also build custom recovery patches, flashable installers, and Xposed modules.
 I study telecommunication access networks. Android is my hobby.
 
